@@ -6,7 +6,7 @@
 
 ### 📄 Descrição
 Este projeto foi desenvolvido como parte do curso Iniciação à Programação Web, do **Projeto de Extensão Beira Linha**.  
-O objetivo foi criar um site de e-commerce simples, aplicando os principais conceitos de **HTML e CSS, com foco em estrutura, estilo e boas práticas de desenvolvimento web.
+O objetivo foi criar um site de e-commerce simples, aplicando os principais conceitos de **HTML e CSS**, com foco em estrutura, estilo e boas práticas de desenvolvimento web.
 
 ---
 
